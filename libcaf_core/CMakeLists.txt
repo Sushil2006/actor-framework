@@ -90,6 +90,7 @@ caf_add_component(
     caf/actor_from_state.test.cpp
     caf/actor_handle_codec.cpp
     caf/actor_launcher.cpp
+    caf/actor_metrics.test.cpp
     caf/actor_pool.cpp
     caf/actor_pool.test.cpp
     caf/actor_proxy.cpp
